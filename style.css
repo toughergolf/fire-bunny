@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    box-sizing: border-box;
+     }
+.red{
+    color: red;
+    font-size: 70px;
+}
+.yellow{
+    color: yellow;
+    font-size: 45px;
+}
+.purple{
+    color: purple;
+    font-size: 30px;
+}
+.purple1{
+    color: purple;
+    font-size: 50px;
+}
+#div1{
+    background-color: black;
+    height: 720px;
+}
+#div2{
+    background-color: purple;
+    height: 720px;
+}
